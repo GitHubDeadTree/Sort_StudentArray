@@ -26,6 +26,7 @@ public class Main {
         });
         for (Student s : list) {
             System.out.println(s.getName() + "," + s.getAge());
+            System.out.println("v2");
         }
 
     }
