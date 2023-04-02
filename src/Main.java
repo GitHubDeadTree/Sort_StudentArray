@@ -28,6 +28,7 @@ public class Main {
             System.out.println(s.getName() + "," + s.getAge());
             System.out.println("v2");
             System.out.println("unstable");
+            System.out.println("unstable-text");
         }
 
     }
