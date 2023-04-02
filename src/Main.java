@@ -30,6 +30,7 @@ public class Main {
             System.out.println("unstable");
             System.out.println("master-text");
             System.out.println("unstable-text");
+            System.out.println("push-text");
         }
 
     }
